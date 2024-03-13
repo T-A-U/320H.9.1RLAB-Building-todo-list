@@ -22,7 +22,7 @@ This lab will test your ability to build an application from scratch, using a se
 ~~2. Follow the requirements below to create your React application.~~
 ~~3. Submit the link to your CodeSandbox on Canvas when you are finished.~~
 
-    Not using CodeSandbox.
+ Not using CodeSandbox.
 
 The layout and styling of the application is left up to your discretion. There are no layout or styling requirements, but you should always make sure your applications are neat, sensible, and provide a good user experience. If you are left with extra time, there is always more styling to be done!
 
@@ -34,9 +34,9 @@ After reading through the requirements below, it is recommended you start with a
 
 
 
-    1. A heading labeling it as a "todo list."
+1. A heading labeling it as a "todo list."
 
-    2. A list of "todo" items, which are strings listing activities to be accomplished (e.g. "find that missing sock"). Each "todo" item should have:
+2. A list of "todo" items, which are strings listing activities to be accomplished (e.g. "find that missing sock"). Each "todo" item should have:
         1. A checkbox next to it which indicates whether it is "complete."
 
         2. A "delete" button next to it which removes it from the list.
@@ -45,8 +45,8 @@ After reading through the requirements below, it is recommended you start with a
         3. An "edit" button that replaces the todo string with a text input used to edit the todo.
             Hint: bind the value of this text input to a piece of state so that it is always accurate, even when first displayed!
             When this text input is active, the "delete" and "edit" buttons should be hidden, and a "save" button should appear. The "save" button should save any changes made to the todo within the text input.
-    3. An input element that creates new todo items and adds them to the list.
-    4. New todos should be added to the top of the list visually; the oldest todos should be at the bottom.
+3. An input element that creates new todo items and adds them to the list.
+4. New todos should be added to the top of the list visually; the oldest todos should be at the bottom.
 
 
 
