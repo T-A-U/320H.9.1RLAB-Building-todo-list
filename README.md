@@ -18,8 +18,8 @@ After completing this lab, learners will have demonstrated the ability to:
 This lab will test your ability to build an application from scratch, using a set of desired functionality to drive your design decisions.
 
    ~~1 Create a React CodeSandbox and name it "React Todo List."~~ <br>
-   ~~ 2 Follow the requirements below to create your React application.~~<br>
-   ~~ 3 Submit the link to your CodeSandbox on Canvas when you are finished.~~<br>
+   ~~ 2 Follow the requirements below to create your React application.~~ <br>
+   ~~ 3 Submit the link to your CodeSandbox on Canvas when you are finished.~~ <br>
     Not using CodeSandbox.
 
 The layout and styling of the application is left up to your discretion. There are no layout or styling requirements, but you should always make sure your applications are neat, sensible, and provide a good user experience. If you are left with extra time, there is always more styling to be done!
