@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      
+      {/*A heading labeling it as a "todo list. */} 
       <h1> To Do List  </h1>
       <Todolist></Todolist>
       
